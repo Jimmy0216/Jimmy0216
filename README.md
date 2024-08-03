@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [갈림길](http://3.34.144.103)
 
-- 👨‍💻 All of my projects are available at [Coming Soon](Coming Soon)
+- 👨‍💻 All of my projects are available at [Coming Soon]
 
 - 📝 I regularly write articles on [https://www.notion.so/5893c50f3c604a8b847ab01673b21a10](https://www.notion.so/5893c50f3c604a8b847ab01673b21a10)
 
