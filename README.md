@@ -44,6 +44,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discode-5865F2?style=flat&logo=Discode&logoColor=white"/>
   <img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=MacOS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/>
 </div>
 <br>
 
