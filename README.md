@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/Discode-5865F2?style=flat&logo=Discode&logoColor=white"/>
   <img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=MacOS&logoColor=white"/>
 </div>
-
+<br>
 
 
 
