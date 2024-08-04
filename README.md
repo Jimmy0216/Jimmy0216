@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Coming Soon]
 
-- 📝 I regularly write articles on [https://www.notion.so/5893c50f3c604a8b847ab01673b21a10](https://www.notion.so/5893c50f3c604a8b847ab01673b21a10)
+- 📝 I regularly write articles on https://www.notion.so/About-Me-512db1019d334714abcc909a44d4b20c
 
 - 📫 How to reach me **maximin910216@gmail.com**
 
