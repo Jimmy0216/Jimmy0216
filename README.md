@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20to%20Jimmy's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 <h1 align="center">Hi 👋, I'm JAEMIN LEE</h1>
-<h3 align="center">A passionate developer from Republic of Korea</h3> 
+<h3 align="center">A passionate developer from Republic of Korea</h3>
 
 - 🔭 I’m currently working on **LLM with RAG(Langchain)**
 
