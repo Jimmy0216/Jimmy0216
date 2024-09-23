@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [갈림길](http://3.34.144.103)
 
-- 👨‍💻 Portfolio 'https://drive.google.com/file/d/1VaMMmhasgvyaLv4fxFV1GVCxnyOoMgle/view?usp=sharing'
+- 👨‍💻 [Portfolio](https://drive.google.com/file/d/1VaMMmhasgvyaLv4fxFV1GVCxnyOoMgle/view?usp=sharing)
 
 - 📝 I regularly write articles on https://www.notion.so/About-Me-512db1019d334714abcc909a44d4b20c
 
